@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+client_secret.json
+Google Chrome Beta.app
+chromedriver
+path_to_chrome_profile
